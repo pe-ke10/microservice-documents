@@ -9,3 +9,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: documents-team
+  system: banco
