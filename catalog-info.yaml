@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: microservice-documents
+  description: Servicio que guarda los documentos de un customer
+  annotations:
+    github.com/project-slug: pe-ke10/microservice-documents
+spec:
+  type: service
+  lifecycle: experimental
+  owner: documents-team
